@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation of the procession, fasting and penance, enjoyn'd by Mahomet-Solyman Emperour of the Turks. From the rising to the seting of the sun, lord of lords, and rightful sucessor of the race of the great prophet Mahomet, to be observed through the whole Ottoman Empire.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05120</idno><idno type="EEBO-CITATION">52614880</idno>
+  <idno type="VID">176033</idno>
+  <idno type="EEBO-PROQUEST">2248534655</idno>
+  
+            <idno type="STC">Wing R860</idno>
+            <idno type="STC">ESTC R182592</idno>
+            <idno type="OCLC">52614880</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176033)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Relation of the procession, fasting and penance, enjoyn'd by Mahomet-Solyman Emperour of the Turks. From the rising to the seting of the sun, lord of lords, and rightful sucessor of the race of the great prophet Mahomet, to be observed through the whole Ottoman Empire.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Holy-Rood-House, and are to be sold by James Mein ...,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Translated out of a Turkish copy."</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mehmed --  IV, --  Sultan of the Turks, 1642-1693 --  Early works to 1800.</term>
+               <term type="geographic_name">Turkey --  History --  Ottoman Empire, 1288-1918 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176033:1"/>
+            <head>
+               <hi>Relation of the Procession, Fasting and Penance, enjoyn'd by MAHOMET-SOLYMAN EMPEROUR OF THE TURKS,</hi> From the rising to the seting of the Sun, Lord of Lords, and rightful Successor of the Race of the Great Prophet <hi>Mahomet,</hi> to be observed through the whole <hi>Ottoman</hi> Empire.</head>
+            <byline>Translated out of a <hi>Turkish</hi> Copy.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Turkish</hi> Emperour firmly believing the Hand of God to be streached out over all His Kingdoms, and considering that the Almighty has given such prosperous Successes to his sworn Enemies the Christi<g ref="char:EOLhyphen"/>ans, in the Events of this present Warr against him, and so Bless'd their Arms both by Sea and Land, that his Armies have not only been several times Beat and Routed, but whole Kingdoms are snatch'd from under his Power and Dominion, and the chief cause of all this to have been his little regard of the Divine assistance, his relying too much upon his own Force and Strength, and his slighting the Christian Emperour. To appease the Divine Wrath, and that of His Great Prophet <hi>Maho<g ref="char:EOLhyphen"/>met,</hi> He ordains throughout all his Empire, that the first three Fri<g ref="char:EOLhyphen"/>days after the New Moon, in the 5, 6, and 7, all Persons shall be oblig'd to keep a strict and austere Fast, without Eating or Drinking any manner of thing till the Stars appear.</p>
+            <p>On the same Days of Fasting, the <hi>Muphti,</hi> with the Officers of the Church, Clothed with Sack-Cloth only, Girded with Ropes, their Eyes cast down towards the Ground, and Beards hanging care<g ref="char:EOLhyphen"/>lesly, are to walk through the Streets and Mercat places till they come to the <hi>Mosque</hi> with howlings, and crying <hi>Tare dam dam mu<g ref="char:EOLhyphen"/>schay Allah Allah.</hi>
+            </p>
+            <p>But at <hi>Mecca</hi> the Coffin of the Great Prophet <hi>Mahomet</hi> is to be carryed publickly, being laid upon a Hand-Barrow, or Bier for the Dead, made of Silver, but the Silver is to be smoak'd over, and made to appear Rusty.</p>
+            <p>They are to carry 25 Boxes of the same sort of Silver, in which are to be put the Bones of such <hi>Officers</hi> and <hi>Spahies,</hi> as out of Love to their Religion have lost their Lives, and who are to be accounted amongst the Martyrs, to the end that the consideration of those pre<g ref="char:EOLhyphen"/>cious <hi>Hero's</hi> may move the Great <hi>Mahomet</hi> to throw himself in the Arms of an Offended angry God.</p>
+            <pb n="2" facs="tcp:176033:2"/>
+            <p>Every Friday thereafter the Coffin of the Great Prophet is to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> brought out to the open Field, The <hi>Pilgrims, Citizens, Merchant</hi> of <hi>Mecca,</hi> are to make the Procession seven times round the sai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Coffin, bewail and moan with grievous Lamentations, and Mour<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ful Songs, without any Airy way of singing, but with sighs, Groa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Howlings: No Musical Instrument is to be heard, and on th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> last Friday they are to have a Procession which is to last four Hour<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the following Order.</p>
+            <p n="1">1. They are to carry a Bier, followed by 600 Persons, Bare<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> footed, Clothed like Penitents, Girded about with Ropes, bearin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all sorts of broken Weapons, as <hi>Arque-buses, Splinter'd Javelin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> strained Cross-bows, Targets,</hi> all in pieces, and the like.</p>
+            <p n="2">2. Three Thousand <hi>Musulmen</hi> in white Cloths, besprinkled wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Blood and Ashes, with dreadful Howlings and Lamentable Cryes a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to beat their Limbs and Bodies.</p>
+            <p n="3">3. Next 6000 <hi>Turks</hi> with the uppermost part of their Bodie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Naked, which they are to lash with Thorns till the Blood run dow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the Ground.</p>
+            <p n="4">4. In the midst, the Coffin of the Great Prophet <hi>Mahomet</hi> is t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be carried by thirty <hi>Saphi's,</hi> with their Heads bare, and Beards Raz<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on both sides 300 <hi>Basha's</hi> are to March with drawn <hi>Symiters,</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if any of the Company shall presume to cast a rash look upon th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Coffin, he is immediatly cut in pieces and cast to the Dogs.</p>
+            <p n="5">5. Every quarter of an Hour, that the Procession lasts a Chris<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an Slave and a Jew are to be slain and left wallowing in their Blood<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p n="6">6. Next follow 30 <hi>Basha's,</hi> Governours of different Province in Cloths of a mean Colour without Purple or any other Colour, ty<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with a Black Crape, spoted with Blood, with one Hand upon th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Backs they trail the Tail of a Camel upon the Ground, in place of <hi>Schutcheon.</hi>
+            </p>
+            <p n="7">7. Two Thousand <hi>Janisaries</hi> March in their Arms, with a Bato<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which they trail behind them, and with a confus'd noise they ho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Allah pery musfat ay.</hi>
+            </p>
+            <p n="8">8. The <hi>Vizier</hi> Marches likewise mounted on a Lame Ass, with Reed teinted with Blood with which he Beats his Head, and moun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the evil times, saying, <hi>Offat milay zus fay.</hi>
+            </p>
+            <p n="9">9. They carry a great Coffer, full of <hi>Turkish</hi> Money, whi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they throw to the Poor, but if any gather an <hi>Asper</hi> before the Pr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cession be ended, he is to be empal'd. The confluence of People a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Pilgrims closes the Procession. In the midst of all this Company a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 100 <hi>Turkish</hi> Hermites, <hi>who with</hi> Razors cut the Flesh of their Fac<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, Breasts and Feet, in so much that the Ground is bedew<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with their Blood; They lift up their Right-Hand to Heaven,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, <hi>Allah buffay allah mirray vestrinnay,</hi> Which is an Oath of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venge against the Christians, and by this means they intend to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pease the Wrath of God, and their Prophet <hi>Mahomet.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Holy-Rood-House,</hi> and are to be Sold by <hi>James Me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> on the North-side of the Street at the Cross, <hi>1686.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
